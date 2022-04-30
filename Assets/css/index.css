@@ -75,6 +75,10 @@ div.nav{
     display: grid;
     grid-template-columns: repeat(2,1fr);
     align-items: center;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 90px;
+    
 }
 .firstpart{
     font-size: large;
