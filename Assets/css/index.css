@@ -206,3 +206,7 @@ div.nav{
 .picture img{
     width: 100%;
 }
+.last{
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
