@@ -210,3 +210,23 @@ div.nav{
     padding-top: 80px;
     padding-bottom: 50px;
 }
+.footer{
+    background-color: lightgrey;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+
+}
+.footer span{
+    color: red;
+    background-color: lightgrey;
+}
+.footer{
+    background-color: lightgrey;
+}
+#grey{
+    background-color: white;
+}
+p.color{
+    background-color: lightgrey;
+}
