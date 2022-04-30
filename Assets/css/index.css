@@ -88,7 +88,7 @@ div.nav{
     margin-left: 50px;
     margin-right: 50px;
 }
-    #she{
+#she{
     display: grid;
     grid-template-columns: repeat(2,1fr);
     align-self: center;
@@ -138,4 +138,28 @@ div.nav{
 .thirdimg img{
     width:100%;
 }
-
+.fourthpart{
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    align-items: center;
+}
+#button6{
+    border: none;
+    color: white;
+    background-color: #EC4067;
+    border-radius: 5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.fourthimg{
+    width:100%;
+}
+.fourthimg img{
+    width:100%;
+}
+.text3{
+    margin-left:80px;
+}
