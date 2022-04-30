@@ -35,4 +35,47 @@ div.nav{
     padding-top: 7px;
     padding-bottom: 7px;
     padding-left: 30px;
+    margin-right: 5px;
+}
+
+#button2{
+    background-color: #EC4067;
+    border-radius: 5px;
+    color: white;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-right: 50px;
+    border: none;
+    font-size: 15px;
+    font-weight: 800;
+}
+#button3{
+    color:#EC4067;
+    border: solid #EC4067;
+    border-width: 1px;
+    background-color: white;
+    padding-top: 7px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 7px;
+    font-size: 15px;
+    font-weight: 800;
+}
+
+#big{
+    font-size: 30px;
+}
+.firstimg img{
+    
+    height: 400px;
+}
+.seo{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    align-items: center;
+}
+.firstpart{
+    font-size: large;
 }
