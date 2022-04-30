@@ -193,3 +193,16 @@ div.nav{
 .cards{
     padding-top: 50px;
 }
+.project{
+    padding-top: 120px;
+}
+.allimg{
+    display: grid;
+    grid-template-columns:repeat(2,1fr);
+}
+.picture{
+    width: 100%;
+}
+.picture img{
+    width: 100%;
+}
